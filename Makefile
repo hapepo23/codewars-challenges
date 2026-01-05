@@ -17,7 +17,8 @@ TARGETS = high_and_low \
 	find_date \
 	run_length_encoding \
 	letters_to_numbers \
-	rotate
+	rotate \
+	roman_num_encoder
 
 .PHONY: all clean reformat run vrun
 

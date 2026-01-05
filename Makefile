@@ -19,7 +19,8 @@ TARGETS = high_and_low \
 	letters_to_numbers \
 	rotate \
 	roman_num_encoder \
-	human_readable_time
+	human_readable_time \
+	format_duration
 
 .PHONY: all clean reformat run vrun
 

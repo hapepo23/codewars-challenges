@@ -20,7 +20,8 @@ TARGETS = high_and_low \
 	rotate \
 	roman_num_encoder \
 	human_readable_time \
-	format_duration
+	format_duration \
+	is_valid_ISBN_10
 
 .PHONY: all clean reformat run vrun
 

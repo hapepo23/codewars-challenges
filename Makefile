@@ -25,7 +25,8 @@ TARGETS = high_and_low \
 	scramble \
 	alphabet_position \
 	sum_number_strings \
-	range_extraction
+	range_extraction \
+	roman_num_helper
 
 .PHONY: all clean reformat run vrun
 

@@ -19,6 +19,7 @@ TARGETS = \
 	is_ordered \
 	is_valid_ip \
 	is_valid_ISBN_10 \
+	land_perimeter \
 	letters_to_numbers \
 	longest \
 	order_words \

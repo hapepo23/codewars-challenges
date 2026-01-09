@@ -8,6 +8,7 @@ TARGETS = \
 	bonus_time \
 	count_codepoints \
 	decode_roman \
+	evaporator \
 	find_date \
 	format_duration \
 	get_count \

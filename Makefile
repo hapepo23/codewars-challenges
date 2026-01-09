@@ -4,6 +4,7 @@ LDLIBS = -lm
 
 TARGETS = \
 	alphabet_position \
+	array_exchange \
 	bonus_time \
 	count_codepoints \
 	decode_roman \

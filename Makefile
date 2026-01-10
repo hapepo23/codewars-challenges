@@ -22,6 +22,7 @@ TARGETS = \
 	land_perimeter \
 	letters_to_numbers \
 	longest \
+	multply_number_strings \
 	order_words \
 	range_extraction \
 	rational_arithmetic \

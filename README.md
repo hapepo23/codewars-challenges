@@ -2,7 +2,7 @@
 
 ![C](C.png)
 
-My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. They may not be the cleverest, but at least they are easy to read and understand.
+My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. They may not be the cleverest, but at least they are (mostly) easy to read and understand. However, some are also quite stupidly implemented.
 
 [![badge](https://www.codewars.com/users/briskwalker/badges/large)](https://www.codewars.com/users/briskwalker)
 

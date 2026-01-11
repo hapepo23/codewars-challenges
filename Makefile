@@ -10,6 +10,7 @@ TARGETS = \
 	decode_roman \
 	evaporator \
 	find_date \
+	find_the_odd_int \
 	format_duration \
 	get_count \
 	get_the_vowels \

@@ -38,7 +38,8 @@ TARGETS = \
 	skyscrapers_6x6_puzzle \
 	skyscrapers_7x7_puzzle \
 	strclr \
-	sum_number_strings
+	sum_number_strings \
+	ten_minutes_walk
 
 .PHONY: all clean reformat run vrun
 

@@ -8,6 +8,7 @@ TARGETS = \
 	array_exchange \
 	bonus_time \
 	count_codepoints \
+	decode_morse \
 	decode_roman \
 	eval_math_expression \
 	evaporator \

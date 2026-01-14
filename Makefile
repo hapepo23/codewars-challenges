@@ -9,6 +9,7 @@ TARGETS = \
 	bonus_time \
 	count_codepoints \
 	decode_roman \
+	eval_math_expression \
 	evaporator \
 	find_date \
 	find_the_odd_int \

@@ -8,7 +8,7 @@ https://www.codewars.com/kata/58dea43ff98a7e2124000169
 #include <stdlib.h>
 #include <string.h>
 
-static void remove_trailing_zeros(char* r) {
+static void remove_leading_zeros(char* r) {
   char* prlast = r;
   while (*prlast)
     prlast++;
@@ -127,7 +127,7 @@ char** divide_strings(char* a, char* b) {
   result[0][pos] = '\0';
   strcpy(result[1], aa);
   free(aa);
-  remove_trailing_zeros(result[0]);
-  remove_trailing_zeros(result[1]);
+  remove_leading_zeros(result[0]);
+  remove_leading_zeros(result[1]);
   return result;
 }

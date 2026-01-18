@@ -29,6 +29,7 @@ TARGETS = \
 	land_perimeter \
 	letters_to_numbers \
 	longest \
+	make_spiral \
 	multply_number_strings \
 	number_proper_fractions \
 	order_words \

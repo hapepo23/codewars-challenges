@@ -32,6 +32,7 @@ TARGETS = \
 	make_spiral \
 	multply_number_strings \
 	number_proper_fractions \
+	ocr \
 	order_words \
 	parseint-reloaded \
 	range_extraction \

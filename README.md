@@ -58,6 +58,7 @@ A very few passed all available tests, but ultimately failed some crazy tests th
 1. [skyscrapers_4x4_puzzle.c](https://github.com/hapepo23/codewars-challenges/blob/master/skyscrapers_4x4_puzzle.c) - 4 kyu - [4 By 4 Skyscrapers](https://www.codewars.com/kata/5671d975d81d6c1c87000022)
 1. [skyscrapers_6x6_puzzle.c](https://github.com/hapepo23/codewars-challenges/blob/master/skyscrapers_6x6_puzzle.c) - 2 kyu - [6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d)
 1. [skyscrapers_7x7_puzzle.c](https://github.com/hapepo23/codewars-challenges/blob/master/skyscrapers_7x7_puzzle.c) - 1 kyu - [7×7 Skyscrapers](https://www.codewars.com/kata/5917a2205ffc30ec3a0000a8)
+1. [sort_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/sort_numbers.c) - 7 kyu - [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 1. [strclr.c](https://github.com/hapepo23/codewars-challenges/blob/master/strclr.c) - 6 kyu - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)

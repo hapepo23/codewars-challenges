@@ -24,6 +24,7 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 - [get_the_vowels.c](https://github.com/hapepo23/codewars-challenges/blob/master/get_the_vowels.c) - 7 kyu - [Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16)
 - [high_and_low.c](https://github.com/hapepo23/codewars-challenges/blob/master/high_and_low.c) - 7 kyu - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [human_readable_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/human_readable_time.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+- [integer_sqrt.c](https://github.com/hapepo23/codewars-challenges/blob/master/integer_sqrt.c) - 2 kyu - [Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4)
 - [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-challenges/blob/master/irreducible_sum_of_rationals.c) - 6 kyu - [Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9)
 - [is_anagram.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_anagram.c) - 7 kyu - [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 - [is_ordered.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_ordered.c) - 7 kyu - [Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6)

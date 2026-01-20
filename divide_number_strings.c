@@ -100,7 +100,7 @@ char** divide_strings(char* a, char* b) {
     result[0][0] = '1';
     return result;
   }
-  char* aa = calloc(lb + 2, sizeof(char));
+  char* aa = calloc(la + 2, sizeof(char));
   char* diff;
   int pos = 0;
   strncpy(aa, a, lb);

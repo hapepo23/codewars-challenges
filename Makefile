@@ -21,6 +21,7 @@ TARGETS = \
 	get_the_vowels \
 	high_and_low \
 	human_readable_time \
+	integer_sqrt \
 	irreducible_sum_of_rationals \
 	is_anagram \
 	is_ordered \

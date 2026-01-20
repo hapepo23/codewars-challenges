@@ -27,6 +27,7 @@ TARGETS = \
 	is_valid_ip \
 	is_valid_ISBN_10 \
 	land_perimeter \
+	large_factorials \
 	letters_to_numbers \
 	longest \
 	make_spiral \

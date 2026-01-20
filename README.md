@@ -30,6 +30,7 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 - [is_valid_ip.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_valid_ip.c) - 6 kyu - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - [is_valid_ISBN_10.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_valid_ISBN_10.c) - 5 kyu - [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 - [land_perimeter.c](https://github.com/hapepo23/codewars-challenges/blob/master/land_perimeter.c) - 5 kyu - [Land perimeter](https://www.codewars.com/kata/5839c48f0cf94640a20001d3)
+- [large_factorials.c](https://github.com/hapepo23/codewars-challenges/blob/master/large_factorials.c) - 4 kyu - [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 - [letters_to_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/letters_to_numbers.c) - 6 kyu - [Sentence Calculator](https://www.codewars.com/kata/5970fce80ed776b94000008b)
 - [longest.c](https://github.com/hapepo23/codewars-challenges/blob/master/longest.c) - 7 kyu - [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 - [make_spiral.c](https://github.com/hapepo23/codewars-challenges/blob/master/make_spiral.c) - 3 kyu - [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)

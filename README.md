@@ -2,9 +2,17 @@
 
 ![C](C.png)
 
-My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. They may not be the cleverest, but at least they are (mostly) easy to read and understand. However, some are also quite stupidly implemented.
-
 [![badge](https://www.codewars.com/users/briskwalker/badges/large)](https://www.codewars.com/users/briskwalker)
+
+My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. 
+
+They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
+
+A very few passed all available tests, but ultimately failed some crazy tests that, of course, aren't published. I quickly lost interest in finding a better solution for them.
+
+----
+
+### List of all challenges I solved in C
 
 1. [adding_big_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/adding_big_numbers.c) - 4 kyu - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 1. [alphabet_position.c](https://github.com/hapepo23/codewars-challenges/blob/master/alphabet_position.c) - 6 kyu - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
@@ -54,5 +62,8 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 
+-----
 
 [![Codewars](codewars-logo.png)](https://www.codewars.com)
+
+-----

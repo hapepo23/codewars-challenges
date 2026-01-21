@@ -22,6 +22,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [count_codepoints.c](https://github.com/hapepo23/codewars-challenges/blob/master/count_codepoints.c) - 7 kyu - [Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a)
 1. [decode_morse.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_morse.c) - 6 kyu - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 1. [decode_roman.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_roman.c) - 6 kyu - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+1. [determinant.c](https://github.com/hapepo23/codewars-challenges/blob/master/determinant.c) - 4 kyu - [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)
 1. [divide_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/divide_number_strings.c) - 3 kyu - [Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169)
 1. [eval_math_expression.c](https://github.com/hapepo23/codewars-challenges/blob/master/eval_math_expression.c) - 2 kyu - [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
 1. [evaporator.c](https://github.com/hapepo23/codewars-challenges/blob/master/evaporator.c) - 7 kyu - [Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)

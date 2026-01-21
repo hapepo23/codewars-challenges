@@ -11,6 +11,7 @@ TARGETS = \
 	count_codepoints \
 	decode_morse \
 	decode_roman \
+	determinant \
 	divide_number_strings \
 	eval_math_expression \
 	evaporator \

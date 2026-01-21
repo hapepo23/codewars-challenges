@@ -45,7 +45,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [make_spiral.c](https://github.com/hapepo23/codewars-challenges/blob/master/make_spiral.c) - 3 kyu - [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 1. [multply_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/multply_number_strings.c) - 4 kyu - [Multiplying numbers as strings](https://www.codewars.com/kata/55911ef14065454c75000062)
 1. [number_proper_fractions.c](https://github.com/hapepo23/codewars-challenges/blob/master/number_proper_fractions.c) - 4 kyu - [Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070)
-1. [ocr.c](https://github.com/hapepo23/codewars-challenges/blob/master/ocr.c) - 2 kyu - [Optical character recognition (not solved)](https://www.codewars.com/kata/5ec9e176721b990029ebce83)
+1. [ocr.c](https://github.com/hapepo23/codewars-challenges/blob/master/ocr.c) - 2 kyu - [Optical character recognition (not definitively solved)](https://www.codewars.com/kata/5ec9e176721b990029ebce83)
 1. [order_words.c](https://github.com/hapepo23/codewars-challenges/blob/master/order_words.c) - 6 kyu - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 1. [parseint-reloaded.c](https://github.com/hapepo23/codewars-challenges/blob/master/parseint-reloaded.c) - 4 kyu - [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 1. [range_extraction.c](https://github.com/hapepo23/codewars-challenges/blob/master/range_extraction.c) - 4 kyu - [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)

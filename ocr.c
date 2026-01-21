@@ -1,6 +1,6 @@
 /*
 2 kyu
-Optical character recognition
+Optical character recognition (not solved)
 https://www.codewars.com/kata/5ec9e176721b990029ebce83
 */
 

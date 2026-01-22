@@ -48,6 +48,7 @@ TARGETS = \
 	skyscrapers_4x4_puzzle \
 	skyscrapers_6x6_puzzle \
 	skyscrapers_7x7_puzzle \
+	snail_sort \
 	sort_numbers \
 	strclr \
 	sum_number_strings \

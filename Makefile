@@ -51,6 +51,7 @@ TARGETS = \
 	snail_sort \
 	sort_numbers \
 	strclr \
+	strings_mix \
 	sum_number_strings \
 	ten_minutes_walk
 

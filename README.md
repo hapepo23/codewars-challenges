@@ -62,6 +62,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [snail_sort.c](https://github.com/hapepo23/codewars-challenges/blob/master/snail_sort.c) - 4 kyu - [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 1. [sort_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/sort_numbers.c) - 7 kyu - [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 1. [strclr.c](https://github.com/hapepo23/codewars-challenges/blob/master/strclr.c) - 6 kyu - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
+1. [strings_mix.c](https://github.com/hapepo23/codewars-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 

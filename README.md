@@ -54,6 +54,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [rational_arithmetic.c](https://github.com/hapepo23/codewars-challenges/blob/master/rational_arithmetic.c) - 5 kyu - [Rational Arithmetic](https://www.codewars.com/kata/5260074c9a0022f83e0009da)
 1. [roman_num_encoder.c](https://github.com/hapepo23/codewars-challenges/blob/master/roman_num_encoder.c) - 6 kyu - [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 1. [roman_num_helper.c](https://github.com/hapepo23/codewars-challenges/blob/master/roman_num_helper.c) - 4 kyu - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003)
+1. [rot13.c](https://github.com/hapepo23/codewars-challenges/blob/master/rot13.c) - 5 kyu - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062)
 1. [rotate.c](https://github.com/hapepo23/codewars-challenges/blob/master/rotate.c) - 5 kyu - [Rotate an array matrix](https://www.codewars.com/kata/525a566985a9a47bc8000670)
 1. [run_length_encoding.c](https://github.com/hapepo23/codewars-challenges/blob/master/run_length_encoding.c) - 6 kyu - [Run-length encoding](https://www.codewars.com/kata/546dba39fa8da224e8000467)
 1. [scramble.c](https://github.com/hapepo23/codewars-challenges/blob/master/scramble.c) - 5 kyu - [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
@@ -67,6 +68,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [strings_mix.c](https://github.com/hapepo23/codewars-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
 
 -----
 

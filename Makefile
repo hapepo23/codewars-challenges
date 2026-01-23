@@ -43,6 +43,7 @@ TARGETS = \
 	rational_arithmetic \
 	roman_num_encoder \
 	roman_num_helper \
+	rot13 \
 	rotate \
 	run_length_encoding \
 	scramble \

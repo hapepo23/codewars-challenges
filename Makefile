@@ -34,6 +34,7 @@ TARGETS = \
 	longest \
 	make_spiral \
 	multply_number_strings \
+	not_very_secure \
 	number_proper_fractions \
 	ocr \
 	order_words \

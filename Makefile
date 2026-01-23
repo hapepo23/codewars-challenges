@@ -50,6 +50,7 @@ TARGETS = \
 	skyscrapers_7x7_puzzle \
 	snail_sort \
 	sort_numbers \
+	square_into_squares \
 	strclr \
 	strings_mix \
 	sum_number_strings \

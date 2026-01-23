@@ -63,7 +63,7 @@ char* mix(const char* s1, const char* s2) {
     result = calloc(1, sizeof(char));
   else {
     qsort(results, 26, sizeof(char*), compare);
-    result = calloc(found+1, sizeof(char));
+    result = calloc(found + 1, sizeof(char));
     for (int i = 0; i < 26; i++) {
       if (result[0] != '\0' && results[i][0] != '\0')
         strcat(result, "/");

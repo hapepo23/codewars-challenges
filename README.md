@@ -17,6 +17,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [adding_big_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/adding_big_numbers.c) - 4 kyu - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 1. [alphabet_position.c](https://github.com/hapepo23/codewars-challenges/blob/master/alphabet_position.c) - 6 kyu - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 1. [array_exchange.c](https://github.com/hapepo23/codewars-challenges/blob/master/array_exchange.c) - 6 kyu - [Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114)
+1. [big_integer_modulo.c](https://github.com/hapepo23/codewars-challenges/blob/master/big_integer_modulo.c) - 5 kyu - [Big Integer Modulo](https://www.codewars.com/kata/546e0773fa8da2013200087a)
 1. [bonus_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/bonus_time.c) - 8 kyu - [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 1. [categorize_new_member.c](https://github.com/hapepo23/codewars-challenges/blob/master/categorize_new_member.c) - 7 kyu - [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 1. [count_codepoints.c](https://github.com/hapepo23/codewars-challenges/blob/master/count_codepoints.c) - 7 kyu - [Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a)
@@ -68,7 +69,6 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [strings_mix.c](https://github.com/hapepo23/codewars-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
-
 
 -----
 

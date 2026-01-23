@@ -6,6 +6,7 @@ TARGETS = \
 	adding_big_numbers \
 	alphabet_position \
 	array_exchange \
+	big_integer_modulo \
 	bonus_time \
 	categorize_new_member \
 	count_codepoints \

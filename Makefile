@@ -11,6 +11,7 @@ TARGETS = \
 	bonus_time \
 	categorize_new_member \
 	count_codepoints \
+	counting_change_combinations \
 	decode_morse \
 	decode_roman \
 	determinant \

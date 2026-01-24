@@ -22,6 +22,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [bonus_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/bonus_time.c) - 8 kyu - [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 1. [categorize_new_member.c](https://github.com/hapepo23/codewars-challenges/blob/master/categorize_new_member.c) - 7 kyu - [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 1. [count_codepoints.c](https://github.com/hapepo23/codewars-challenges/blob/master/count_codepoints.c) - 7 kyu - [Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a)
+1. [counting_change_combinations.c](https://github.com/hapepo23/codewars-challenges/blob/master/counting_change_combinations.c) - 4 kyu - [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7)
 1. [decode_morse.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_morse.c) - 6 kyu - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 1. [decode_roman.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_roman.c) - 6 kyu - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 1. [determinant.c](https://github.com/hapepo23/codewars-challenges/blob/master/determinant.c) - 4 kyu - [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)
@@ -71,6 +72,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [strings_mix.c](https://github.com/hapepo23/codewars-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
 
 -----
 

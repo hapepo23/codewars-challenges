@@ -42,6 +42,7 @@ TARGETS = \
 	ocr \
 	order_words \
 	parseint-reloaded \
+	prime_factor_decomposition \
 	range_extraction \
 	rational_arithmetic \
 	rectangle_rotation \

@@ -7,6 +7,7 @@ TARGETS = \
 	alphabet_position \
 	array_exchange \
 	big_integer_modulo \
+	blackjack_scorer \
 	bonus_time \
 	categorize_new_member \
 	count_codepoints \

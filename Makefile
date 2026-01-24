@@ -42,6 +42,7 @@ TARGETS = \
 	parseint-reloaded \
 	range_extraction \
 	rational_arithmetic \
+	rectangle_rotation \
 	roman_num_encoder \
 	roman_num_helper \
 	rot13 \

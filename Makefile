@@ -48,6 +48,7 @@ TARGETS = \
 	range_extraction \
 	rational_arithmetic \
 	rectangle_rotation \
+	rgb_to_hex \
 	roman_num_encoder \
 	roman_num_helper \
 	rot13 \

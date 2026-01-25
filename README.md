@@ -59,6 +59,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [range_extraction.c](https://github.com/hapepo23/codewars-challenges/blob/master/range_extraction.c) - 4 kyu - [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 1. [rational_arithmetic.c](https://github.com/hapepo23/codewars-challenges/blob/master/rational_arithmetic.c) - 5 kyu - [Rational Arithmetic](https://www.codewars.com/kata/5260074c9a0022f83e0009da)
 1. [rectangle_rotation.c](https://github.com/hapepo23/codewars-challenges/blob/master/rectangle_rotation.c) - 4 kyu - [Rectangle Rotation](https://www.codewars.com/kata/5886e082a836a691340000c3)
+1. [rgb_to_hex.c](https://github.com/hapepo23/codewars-challenges/blob/master/rgb_to_hex.c) - 5 kyu - [https://www.codewars.com/kata/513e08acc600c94f01000001](*/)
 1. [roman_num_encoder.c](https://github.com/hapepo23/codewars-challenges/blob/master/roman_num_encoder.c) - 6 kyu - [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 1. [roman_num_helper.c](https://github.com/hapepo23/codewars-challenges/blob/master/roman_num_helper.c) - 4 kyu - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003)
 1. [rot13.c](https://github.com/hapepo23/codewars-challenges/blob/master/rot13.c) - 5 kyu - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062)

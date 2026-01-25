@@ -37,6 +37,7 @@ TARGETS = \
 	letters_to_numbers \
 	longest \
 	make_spiral \
+	move_zeros \
 	multply_number_strings \
 	not_very_secure \
 	number_proper_fractions \

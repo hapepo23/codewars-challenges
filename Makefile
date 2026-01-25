@@ -64,6 +64,7 @@ TARGETS = \
 	strclr \
 	strings_mix \
 	sum_number_strings \
+	sum_of_intervals \
 	ten_minutes_walk
 
 .PHONY: all clean reformat run vrun

@@ -16,6 +16,7 @@ TARGETS = \
 	decode_roman \
 	determinant \
 	divide_number_strings \
+	escape_the_maze \
 	eval_math_expression \
 	evaporator \
 	find_date \

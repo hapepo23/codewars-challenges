@@ -41,6 +41,7 @@ TARGETS = \
 	make_spiral \
 	move_zeros \
 	multply_number_strings \
+	my_strtok \
 	not_very_secure \
 	number_proper_fractions \
 	ocr \

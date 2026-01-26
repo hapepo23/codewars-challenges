@@ -15,6 +15,7 @@ TARGETS = \
 	decode_morse \
 	decode_roman \
 	determinant \
+	directions_reduction \
 	divide_number_strings \
 	escape_the_maze \
 	eval_math_expression \

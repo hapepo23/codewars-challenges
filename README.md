@@ -26,6 +26,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [decode_morse.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_morse.c) - 6 kyu - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 1. [decode_roman.c](https://github.com/hapepo23/codewars-challenges/blob/master/decode_roman.c) - 6 kyu - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 1. [determinant.c](https://github.com/hapepo23/codewars-challenges/blob/master/determinant.c) - 4 kyu - [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)
+1. [directions_reduction.c](https://github.com/hapepo23/codewars-challenges/blob/master/directions_reduction.c) - 5 kyu - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 1. [divide_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/divide_number_strings.c) - 3 kyu - [Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169)
 1. [escape_the_maze.c](https://github.com/hapepo23/codewars-challenges/blob/master/escape_the_maze.c) - 4 kyu - [Escape the maze](https://www.codewars.com/kata/5877027d885d4f6144000404)
 1. [eval_math_expression.c](https://github.com/hapepo23/codewars-challenges/blob/master/eval_math_expression.c) - 2 kyu - [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
@@ -77,6 +78,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [sum_of_intervals.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_of_intervals.c) - 4 kyu - [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
 
 -----
 

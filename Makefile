@@ -20,6 +20,7 @@ TARGETS = \
 	escape_the_maze \
 	eval_math_expression \
 	evaporator \
+	factorial_decomposition \
 	find_date \
 	find_the_odd_int \
 	format_duration \

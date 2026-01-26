@@ -31,6 +31,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [escape_the_maze.c](https://github.com/hapepo23/codewars-challenges/blob/master/escape_the_maze.c) - 4 kyu - [Escape the maze](https://www.codewars.com/kata/5877027d885d4f6144000404)
 1. [eval_math_expression.c](https://github.com/hapepo23/codewars-challenges/blob/master/eval_math_expression.c) - 2 kyu - [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
 1. [evaporator.c](https://github.com/hapepo23/codewars-challenges/blob/master/evaporator.c) - 7 kyu - [Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)
+1. [factorial_decomposition.c](https://github.com/hapepo23/codewars-challenges/blob/master/factorial_decomposition.c) - 5 kyu - [Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070)
 1. [find_date.c](https://github.com/hapepo23/codewars-challenges/blob/master/find_date.c) - 6 kyu - [Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b)
 1. [find_the_odd_int.c](https://github.com/hapepo23/codewars-challenges/blob/master/find_the_odd_int.c) - 6 kyu - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 1. [format_duration.c](https://github.com/hapepo23/codewars-challenges/blob/master/format_duration.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)

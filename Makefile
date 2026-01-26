@@ -46,6 +46,7 @@ TARGETS = \
 	order_words \
 	parseint-reloaded \
 	prime_factor_decomposition \
+	product_consecutive_fibnum \
 	range_extraction \
 	rational_arithmetic \
 	rectangle_rotation \

@@ -80,6 +80,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 1. [sum_of_intervals.c](https://github.com/hapepo23/codewars-challenges/blob/master/sum_of_intervals.c) - 4 kyu - [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 1. [ten_minutes_walk.c](https://github.com/hapepo23/codewars-challenges/blob/master/ten_minutes_walk.c) - 6 kyu - [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+1. [your_own_printf.c](https://github.com/hapepo23/codewars-challenges/blob/master/your_own_printf.c) - 5 kyu - [Write your own printf](https://www.codewars.com/kata/59480c92e3102df28f0000dd)
 
 -----
 

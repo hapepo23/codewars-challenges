@@ -52,5 +52,30 @@ int main(void) {
     const char* src = "#Coffee#please!#";
     do_test(src, DELIMITERS);
   }
+  {
+    const char* DELIMITERS = " ,.-";
+    const char* src = "- This, a sample string.";
+    do_test(src, DELIMITERS);
+  }
+  {
+    const char* DELIMITERS = "#";
+    const char* src = "123";
+    do_test(src, DELIMITERS);
+  }
+  {
+    const char* DELIMITERS = "#";
+    const char* src = "";
+    do_test(src, DELIMITERS);
+  }
+  {
+    const char* DELIMITERS = " ,.-";
+    const char* src = " ,.-";
+    do_test(src, DELIMITERS);
+  }
+  {
+    const char* DELIMITERS = ",.-";
+    const char* src = " , . - ";
+    do_test(src, DELIMITERS);
+  }
   return 0;
 }

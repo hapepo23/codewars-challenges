@@ -54,6 +54,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [move_zeros.c](https://github.com/hapepo23/codewars-challenges/blob/master/move_zeros.c) - 5 kyu - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 1. [multply_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/multply_number_strings.c) - 4 kyu - [Multiplying numbers as strings](https://www.codewars.com/kata/55911ef14065454c75000062)
 1. [my_strtok.c](https://github.com/hapepo23/codewars-challenges/blob/master/my_strtok.c) - 5 kyu - [Strings: implement your own "strtok" function!](https://www.codewars.com/kata/5806203dc2799821cb000293)
+1. [next_bigger_number.c](https://github.com/hapepo23/codewars-challenges/blob/master/next_bigger_number.c) - 4 kyu - [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
 1. [not_very_secure.c](https://github.com/hapepo23/codewars-challenges/blob/master/not_very_secure.c) - 5 kyu - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 1. [number_proper_fractions.c](https://github.com/hapepo23/codewars-challenges/blob/master/number_proper_fractions.c) - 4 kyu - [Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070)
 1. [ocr.c](https://github.com/hapepo23/codewars-challenges/blob/master/ocr.c) - 2 kyu - [Optical character recognition (not definitively solved)](https://www.codewars.com/kata/5ec9e176721b990029ebce83)

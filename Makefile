@@ -43,6 +43,7 @@ TARGETS = \
 	move_zeros \
 	multply_number_strings \
 	my_strtok \
+	next_bigger_number \
 	not_very_secure \
 	number_proper_fractions \
 	ocr \

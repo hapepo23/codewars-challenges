@@ -26,6 +26,7 @@ TARGETS = \
 	format_duration \
 	get_count \
 	get_the_vowels \
+	hex_string_to_rgb \
 	high_and_low \
 	human_readable_time \
 	integer_sqrt \

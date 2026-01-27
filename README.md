@@ -37,6 +37,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [format_duration.c](https://github.com/hapepo23/codewars-challenges/blob/master/format_duration.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 1. [get_count.c](https://github.com/hapepo23/codewars-challenges/blob/master/get_count.c) - 7 kyu - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 1. [get_the_vowels.c](https://github.com/hapepo23/codewars-challenges/blob/master/get_the_vowels.c) - 7 kyu - [Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16)
+1. [hex_string_to_rgb.c](https://github.com/hapepo23/codewars-challenges/blob/master/hex_string_to_rgb.c) - 5 kyu - [Convert A Hex String To RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
 1. [high_and_low.c](https://github.com/hapepo23/codewars-challenges/blob/master/high_and_low.c) - 7 kyu - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 1. [human_readable_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/human_readable_time.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 1. [integer_sqrt.c](https://github.com/hapepo23/codewars-challenges/blob/master/integer_sqrt.c) - 2 kyu - [Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4)

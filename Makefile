@@ -48,6 +48,7 @@ TARGETS = \
 	not_very_secure \
 	number_proper_fractions \
 	ocr \
+	ordered_set \
 	order_words \
 	parseint-reloaded \
 	prime_factor_decomposition \

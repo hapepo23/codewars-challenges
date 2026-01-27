@@ -59,6 +59,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [not_very_secure.c](https://github.com/hapepo23/codewars-challenges/blob/master/not_very_secure.c) - 5 kyu - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 1. [number_proper_fractions.c](https://github.com/hapepo23/codewars-challenges/blob/master/number_proper_fractions.c) - 4 kyu - [Number of Proper Fractions with Denominator d](https://www.codewars.com/kata/55b7bb74a0256d4467000070)
 1. [ocr.c](https://github.com/hapepo23/codewars-challenges/blob/master/ocr.c) - 2 kyu - [Optical character recognition (not definitively solved)](https://www.codewars.com/kata/5ec9e176721b990029ebce83)
+1. [ordered_set.c](https://github.com/hapepo23/codewars-challenges/blob/master/ordered_set.c) - 4 kyu - [Ordered set](https://www.codewars.com/kata/5c0c5ec84e8f1804b9000296)
 1. [order_words.c](https://github.com/hapepo23/codewars-challenges/blob/master/order_words.c) - 6 kyu - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 1. [parseint-reloaded.c](https://github.com/hapepo23/codewars-challenges/blob/master/parseint-reloaded.c) - 4 kyu - [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 1. [prime_factor_decomposition.c](https://github.com/hapepo23/codewars-challenges/blob/master/prime_factor_decomposition.c) - 5 kyu - [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)

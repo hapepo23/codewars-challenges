@@ -40,6 +40,7 @@ TARGETS = \
 	letters_to_numbers \
 	longest \
 	make_spiral \
+	maximum_subarray_sum \
 	move_zeros \
 	multply_number_strings \
 	my_strtok \

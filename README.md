@@ -51,6 +51,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [letters_to_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/letters_to_numbers.c) - 6 kyu - [Sentence Calculator](https://www.codewars.com/kata/5970fce80ed776b94000008b)
 1. [longest.c](https://github.com/hapepo23/codewars-challenges/blob/master/longest.c) - 7 kyu - [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 1. [make_spiral.c](https://github.com/hapepo23/codewars-challenges/blob/master/make_spiral.c) - 3 kyu - [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
+1. [maximum_subarray_sum.c](https://github.com/hapepo23/codewars-challenges/blob/master/maximum_subarray_sum.c) - 5 kyu - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 1. [move_zeros.c](https://github.com/hapepo23/codewars-challenges/blob/master/move_zeros.c) - 5 kyu - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 1. [multply_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/multply_number_strings.c) - 4 kyu - [Multiplying numbers as strings](https://www.codewars.com/kata/55911ef14065454c75000062)
 1. [my_strtok.c](https://github.com/hapepo23/codewars-challenges/blob/master/my_strtok.c) - 5 kyu - [Strings: implement your own "strtok" function!](https://www.codewars.com/kata/5806203dc2799821cb000293)

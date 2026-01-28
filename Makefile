@@ -26,6 +26,7 @@ TARGETS = \
 	format_duration \
 	get_count \
 	get_the_vowels \
+	greed_is_good \
 	hex_string_to_rgb \
 	high_and_low \
 	human_readable_time \
@@ -70,6 +71,7 @@ TARGETS = \
 	sort_numbers \
 	square_into_squares \
 	strclr \
+	string_incrementer \
 	strings_mix \
 	sum_number_strings \
 	sum_of_intervals \

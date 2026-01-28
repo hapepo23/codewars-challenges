@@ -12,6 +12,7 @@ TARGETS = \
 	categorize_new_member \
 	count_codepoints \
 	counting_change_combinations \
+	count_ip_addresses \
 	decode_morse \
 	decode_roman \
 	determinant \

@@ -40,6 +40,7 @@ TARGETS = \
 	is_valid_ISBN_10 \
 	land_perimeter \
 	large_factorials \
+	last_digit_of_large_number \
 	letters_to_numbers \
 	longest \
 	make_spiral \

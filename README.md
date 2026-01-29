@@ -42,6 +42,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [hex_string_to_rgb.c](https://github.com/hapepo23/codewars-challenges/blob/master/hex_string_to_rgb.c) - 5 kyu - [Convert A Hex String To RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
 1. [high_and_low.c](https://github.com/hapepo23/codewars-challenges/blob/master/high_and_low.c) - 7 kyu - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 1. [human_readable_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/human_readable_time.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+1. [int32_to_ipv4.c](https://github.com/hapepo23/codewars-challenges/blob/master/int32_to_ipv4.c) - 5 kyu - [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
 1. [integer_sqrt.c](https://github.com/hapepo23/codewars-challenges/blob/master/integer_sqrt.c) - 2 kyu - [Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4)
 1. [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-challenges/blob/master/irreducible_sum_of_rationals.c) - 6 kyu - [Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9)
 1. [is_anagram.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_anagram.c) - 7 kyu - [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)

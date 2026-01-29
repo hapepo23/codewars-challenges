@@ -32,6 +32,7 @@ TARGETS = \
 	high_and_low \
 	human_readable_time \
 	integer_sqrt \
+	int32_to_ipv4 \
 	irreducible_sum_of_rationals \
 	is_anagram \
 	is_ordered \

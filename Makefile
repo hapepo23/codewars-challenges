@@ -10,6 +10,7 @@ TARGETS = \
 	blackjack_scorer \
 	bonus_time \
 	categorize_new_member \
+	common_denominators \
 	count_codepoints \
 	counting_change_combinations \
 	count_ip_addresses \
@@ -45,6 +46,7 @@ TARGETS = \
 	longest \
 	make_spiral \
 	maximum_subarray_sum \
+	mean_square_error \
 	move_zeros \
 	multply_number_strings \
 	my_strtok \

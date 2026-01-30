@@ -23,6 +23,7 @@ TARGETS = \
 	eval_math_expression \
 	evaporator \
 	factorial_decomposition \
+	factorial_trailing_zeros \
 	find_date \
 	find_the_odd_int \
 	format_duration \

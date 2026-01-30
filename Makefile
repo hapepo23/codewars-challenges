@@ -85,6 +85,7 @@ TARGETS = \
 	sum_of_intervals \
 	ten_minutes_walk \
 	weight_for_weight \
+	who_likes_it \
 	your_own_printf
 
 .PHONY: all clean reformat run vrun

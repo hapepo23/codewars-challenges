@@ -8,7 +8,7 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 
 They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
 
-One passed all available tests, but ultimately failed some crazy tests that, of course, aren't published. I quickly lost interest in finding a better solution.
+One (Optical character recognition, ocr.c) passed all available tests, but ultimately failed some crazy tests that, of course, aren't known. I finally lost interest in finding a better solution.
 
 ----
 

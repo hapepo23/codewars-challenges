@@ -48,6 +48,7 @@ TARGETS = \
 	maximum_subarray_sum \
 	mean_square_error \
 	move_zeros \
+	multiples_of_3_or_5 \
 	multply_number_strings \
 	my_strtok \
 	next_bigger_number \

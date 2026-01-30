@@ -59,6 +59,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [maximum_subarray_sum.c](https://github.com/hapepo23/codewars-challenges/blob/master/maximum_subarray_sum.c) - 5 kyu - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 1. [mean_square_error.c](https://github.com/hapepo23/codewars-challenges/blob/master/mean_square_error.c) - 5 kyu - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015)
 1. [move_zeros.c](https://github.com/hapepo23/codewars-challenges/blob/master/move_zeros.c) - 5 kyu - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+1. [multiples_of_3_or_5.c](https://github.com/hapepo23/codewars-challenges/blob/master/multiples_of_3_or_5.c) - 6 kyu - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 1. [multply_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/multply_number_strings.c) - 4 kyu - [Multiplying numbers as strings](https://www.codewars.com/kata/55911ef14065454c75000062)
 1. [my_strtok.c](https://github.com/hapepo23/codewars-challenges/blob/master/my_strtok.c) - 5 kyu - [Strings: implement your own "strtok" function!](https://www.codewars.com/kata/5806203dc2799821cb000293)
 1. [next_bigger_number.c](https://github.com/hapepo23/codewars-challenges/blob/master/next_bigger_number.c) - 4 kyu - [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)

@@ -35,6 +35,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [evaporator.c](https://github.com/hapepo23/codewars-challenges/blob/master/evaporator.c) - 7 kyu - [Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)
 1. [factorial_decomposition.c](https://github.com/hapepo23/codewars-challenges/blob/master/factorial_decomposition.c) - 5 kyu - [Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070)
 1. [factorial_trailing_zeros.c](https://github.com/hapepo23/codewars-challenges/blob/master/factorial_trailing_zeros.c) - 5 kyu - [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+1. [fibonacci_squares_perimeter.c](https://github.com/hapepo23/codewars-challenges/blob/master/fibonacci_squares_perimeter.c) - 5 kyu - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 1. [find_date.c](https://github.com/hapepo23/codewars-challenges/blob/master/find_date.c) - 6 kyu - [Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b)
 1. [find_the_odd_int.c](https://github.com/hapepo23/codewars-challenges/blob/master/find_the_odd_int.c) - 6 kyu - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 1. [format_duration.c](https://github.com/hapepo23/codewars-challenges/blob/master/format_duration.c) - 5 kyu - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)

@@ -24,6 +24,7 @@ TARGETS = \
 	evaporator \
 	factorial_decomposition \
 	factorial_trailing_zeros \
+	fibonacci_squares_perimeter \
 	find_date \
 	find_the_odd_int \
 	format_duration \

@@ -84,6 +84,7 @@ TARGETS = \
 	sum_number_strings \
 	sum_of_intervals \
 	ten_minutes_walk \
+	tic_tac_toe_checker \
 	weight_for_weight \
 	who_likes_it \
 	your_own_printf

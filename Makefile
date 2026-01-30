@@ -41,6 +41,7 @@ TARGETS = \
 	is_ordered \
 	is_valid_ip \
 	is_valid_ISBN_10 \
+	josephus_permutation \
 	land_perimeter \
 	large_factorials \
 	last_digit_of_large_number \

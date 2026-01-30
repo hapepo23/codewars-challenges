@@ -52,6 +52,7 @@ One passed all available tests, but ultimately failed some crazy tests that, of 
 1. [is_ordered.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_ordered.c) - 7 kyu - [Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6)
 1. [is_valid_ip.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_valid_ip.c) - 6 kyu - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 1. [is_valid_ISBN_10.c](https://github.com/hapepo23/codewars-challenges/blob/master/is_valid_ISBN_10.c) - 5 kyu - [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
+1. [josephus_permutation.c](https://github.com/hapepo23/codewars-challenges/blob/master/josephus_permutation.c) - 5 kyu - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2)
 1. [land_perimeter.c](https://github.com/hapepo23/codewars-challenges/blob/master/land_perimeter.c) - 5 kyu - [Land perimeter](https://www.codewars.com/kata/5839c48f0cf94640a20001d3)
 1. [large_factorials.c](https://github.com/hapepo23/codewars-challenges/blob/master/large_factorials.c) - 4 kyu - [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 1. [last_digit_of_large_number.c](https://github.com/hapepo23/codewars-challenges/blob/master/last_digit_of_large_number.c) - 5 kyu - [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1)

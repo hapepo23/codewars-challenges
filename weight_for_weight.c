@@ -16,7 +16,7 @@ static char* xstrdup(const char* s) {
   return p;
 }
 
-int digitsum(const char* n) {
+static int digitsum(const char* n) {
   int sum = 0;
   while (*n) {
     sum += (*n - '0');

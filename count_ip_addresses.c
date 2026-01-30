@@ -8,7 +8,7 @@ https://www.codewars.com/kata/526989a41034285187000de4
 #include <stdlib.h>
 #include <string.h>
 
-uint32_t ip_string_to_uint32(const char* ip) {
+static uint32_t ip_string_to_uint32(const char* ip) {
   char s[16];
   unsigned parts[4];
   strcpy(s, ip);

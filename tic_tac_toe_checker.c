@@ -11,7 +11,7 @@ enum game_state { NOT_FINISHED = -1, DRAW = 0, X_WON = 1, O_WON = 2 };
 
 enum square { EMPTY = 0, X = 1, O = 2 };
 
-int rowindexes[WINROWS][SQUARES][2] = {
+static const int rowindexes[WINROWS][SQUARES][2] = {
     {{0, 0}, {0, 1}, {0, 2}}, {{1, 0}, {1, 1}, {1, 2}},
     {{2, 0}, {2, 1}, {2, 2}}, {{0, 0}, {1, 0}, {2, 0}},
     {{0, 1}, {1, 1}, {2, 1}}, {{0, 2}, {1, 2}, {2, 2}},

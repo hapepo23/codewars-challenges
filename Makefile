@@ -42,6 +42,7 @@ TARGETS = \
 	is_valid_ip \
 	is_valid_ISBN_10 \
 	josephus_permutation \
+	josephus_survivor \
 	land_perimeter \
 	large_factorials \
 	last_digit_of_large_number \

@@ -51,6 +51,7 @@ TARGETS = \
 	make_spiral \
 	maximum_subarray_sum \
 	mean_square_error \
+	merged_string_checker \
 	move_zeros \
 	multiples_of_3_or_5 \
 	multply_number_strings \

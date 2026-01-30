@@ -62,6 +62,7 @@ One challenge (Optical Character Recognition, ocr.c) passed all available tests,
 1. [make_spiral.c](https://github.com/hapepo23/codewars-challenges/blob/master/make_spiral.c) - 3 kyu - [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 1. [maximum_subarray_sum.c](https://github.com/hapepo23/codewars-challenges/blob/master/maximum_subarray_sum.c) - 5 kyu - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 1. [mean_square_error.c](https://github.com/hapepo23/codewars-challenges/blob/master/mean_square_error.c) - 5 kyu - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015)
+1. [merged_string_checker.c](https://github.com/hapepo23/codewars-challenges/blob/master/merged_string_checker.c) - 5 kyu - [Merged String Checker](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa)
 1. [move_zeros.c](https://github.com/hapepo23/codewars-challenges/blob/master/move_zeros.c) - 5 kyu - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 1. [multiples_of_3_or_5.c](https://github.com/hapepo23/codewars-challenges/blob/master/multiples_of_3_or_5.c) - 6 kyu - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 1. [multply_number_strings.c](https://github.com/hapepo23/codewars-challenges/blob/master/multply_number_strings.c) - 4 kyu - [Multiplying numbers as strings](https://www.codewars.com/kata/55911ef14065454c75000062)

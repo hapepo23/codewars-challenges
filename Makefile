@@ -79,6 +79,7 @@ TARGETS = \
 	skyscrapers_6x6_puzzle \
 	skyscrapers_7x7_puzzle \
 	snail_sort \
+	snakes_and_ladders \
 	sort_numbers \
 	square_into_squares \
 	strclr \

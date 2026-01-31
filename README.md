@@ -93,6 +93,7 @@ One challenge (Optical Character Recognition, ocr.c) passed all available tests,
 1. [snakes_and_ladders.c](https://github.com/hapepo23/codewars-challenges/blob/master/snakes_and_ladders.c) - 5 kyu - [Snakes and Ladders](https://www.codewars.com/kata/587136ba2eefcb92a9000027)
 1. [sort_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/sort_numbers.c) - 7 kyu - [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 1. [square_into_squares.c](https://github.com/hapepo23/codewars-challenges/blob/master/square_into_squares.c) - 4 kyu - [Square into Squares. Protect trees!](https://www.codewars.com/kata/54eb33e5bc1a25440d000891)
+1. [square_matrix_multiplication.c](https://github.com/hapepo23/codewars-challenges/blob/master/square_matrix_multiplication.c) - 5 kyu - [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513)
 1. [strclr.c](https://github.com/hapepo23/codewars-challenges/blob/master/strclr.c) - 6 kyu - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 1. [string_incrementer.c](https://github.com/hapepo23/codewars-challenges/blob/master/string_incrementer.c) - 5 kyu - [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
 1. [strings_mix.c](https://github.com/hapepo23/codewars-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)

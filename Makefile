@@ -82,6 +82,7 @@ TARGETS = \
 	snakes_and_ladders \
 	sort_numbers \
 	square_into_squares \
+	square_matrix_multiplication \
 	strclr \
 	string_incrementer \
 	strings_mix \

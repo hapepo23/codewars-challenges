@@ -6,6 +6,7 @@ TARGETS = \
 	adding_big_numbers \
 	alphabet_position \
 	array_exchange \
+	base64 \
 	big_integer_modulo \
 	blackjack_scorer \
 	bonus_time \

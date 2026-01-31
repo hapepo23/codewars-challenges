@@ -17,6 +17,7 @@ One challenge (Optical Character Recognition, ocr.c) passed all available tests,
 1. [adding_big_numbers.c](https://github.com/hapepo23/codewars-challenges/blob/master/adding_big_numbers.c) - 4 kyu - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 1. [alphabet_position.c](https://github.com/hapepo23/codewars-challenges/blob/master/alphabet_position.c) - 6 kyu - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 1. [array_exchange.c](https://github.com/hapepo23/codewars-challenges/blob/master/array_exchange.c) - 6 kyu - [Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114)
+1. [base64.c](https://github.com/hapepo23/codewars-challenges/blob/master/base64.c) - 5 kyu - [Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161)
 1. [big_integer_modulo.c](https://github.com/hapepo23/codewars-challenges/blob/master/big_integer_modulo.c) - 5 kyu - [Big Integer Modulo](https://www.codewars.com/kata/546e0773fa8da2013200087a)
 1. [blackjack_scorer.c](https://github.com/hapepo23/codewars-challenges/blob/master/blackjack_scorer.c) - 5 kyu - [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
 1. [bonus_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/bonus_time.c) - 8 kyu - [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)

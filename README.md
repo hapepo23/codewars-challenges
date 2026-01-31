@@ -75,6 +75,7 @@ One challenge (Optical Character Recognition, ocr.c) passed all available tests,
 1. [order_words.c](https://github.com/hapepo23/codewars-challenges/blob/master/order_words.c) - 6 kyu - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 1. [parseint-reloaded.c](https://github.com/hapepo23/codewars-challenges/blob/master/parseint-reloaded.c) - 4 kyu - [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 1. [prime_factor_decomposition.c](https://github.com/hapepo23/codewars-challenges/blob/master/prime_factor_decomposition.c) - 5 kyu - [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)
+1. [prime_time.c](https://github.com/hapepo23/codewars-challenges/blob/master/prime_time.c) - 5 kyu - [(Ready for) Prime Time](https://www.codewars.com/kata/521ef596c106a935c0000519)
 1. [product_consecutive_fibnum.c](https://github.com/hapepo23/codewars-challenges/blob/master/product_consecutive_fibnum.c) - 5 kyu - [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 1. [range_extraction.c](https://github.com/hapepo23/codewars-challenges/blob/master/range_extraction.c) - 4 kyu - [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 1. [rational_arithmetic.c](https://github.com/hapepo23/codewars-challenges/blob/master/rational_arithmetic.c) - 5 kyu - [Rational Arithmetic](https://www.codewars.com/kata/5260074c9a0022f83e0009da)
